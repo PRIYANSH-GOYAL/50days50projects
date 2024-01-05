@@ -2,3 +2,9 @@ h1{
   color: red;
   background-color: black;
 }
+p{
+  line-height: 30px;
+  background-color: red;
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
